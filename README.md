@@ -1,4 +1,4 @@
-![Banner Animado](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Olá,%20sou%20o%20[ÁrleiSantos]&fontSize=70&animation=fadeIn)
+![Banner Animado](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Olá,%20sou%20o%20ÁrleiSantos&fontSize=70&animation=fadeIn)
 
 ### 👨‍💻 Estudante de Informática para Internet
 
