@@ -24,6 +24,7 @@ Atualmente estou focando meus estudos em desenvolvimento web, aprendendo a criar
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical)
+![Banner Animado](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Olá,%20sou%20o%20[NOME]&fontSize=70&animation=fadeIn)
 
 ---
 
