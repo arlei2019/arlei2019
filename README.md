@@ -1,16 +1,35 @@
-## Hi there 👋
+# Olá, eu sou o Árlei Santos! 👋
 
-<!--
-**arlei2019/arlei2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Estudante de Informática para Internet
 
-Here are some ideas to get you started:
+Atualmente estou focando meus estudos em desenvolvimento web, aprendendo a criar aplicações completas e responsivas. Adoro transformar ideias em código e estou sempre em busca de novos desafios técnicos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Cursando: Técnico em Informática para Internet.
+- 💡 Interesses: Desenvolvimento Front-end, Back-end e UX/UI Design.
+- 🌱 Atualmente aprendendo: React, Node.js e metodologias ágeis.
+
+---
+
+### 🛠 Tecnologias e Ferramentas
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Front-end** | HTML5, CSS3, JavaScript, Bootstrap |
+| **Back-end** | PHP, MySQL, Node.js |
+| **Ferramentas** | VS Code, Git, GitHub, Figma |
+
+---
+
+### 📊 Minhas Estatísticas
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical)
+
+---
+
+### 📫 Como me encontrar
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/%C3%A1rlei-santos-739040387/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
