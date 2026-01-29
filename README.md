@@ -40,5 +40,5 @@ Atualmente estou focando meus estudos em desenvolvimento web, aprendendo a criar
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Ol%C3%A1!+Seja+bem-vindo(a).;Aqui+eu+transformo+ideias+em+c%C3%B3digo.;Feel+free+to+look+around!+%F0%9F%91%80" alt="Typing SVG" /></a>
   <br/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3/l0HlNWBA9Y7V4N9XG/giphy.gif" width="180">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="180">
 </div>
