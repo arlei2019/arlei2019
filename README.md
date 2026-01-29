@@ -18,7 +18,7 @@
 
 <details open>
 <summary><h2>
-  <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=superuser&logoColor=00D9FF" width="25"> 
+  <img src="https://img.shields.io/badge/-%230d1117?style=flat-square&logo=superuser&logoColor=00D9FF" width="25"> 
   Sobre Mim
 </h2></summary>
 <div align="left">
@@ -33,7 +33,7 @@
 
 <details open>
 <summary><h2>
-  <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=visualstudiocode&logoColor=00D9FF" width="25"> 
+  <img src="https://img.shields.io/badge/-%230d1117?style=flat-square&logo=visualstudiocode&logoColor=00D9FF" width="25"> 
   Minhas Tecnologias
 </h2></summary>
 <div align="center">
@@ -49,7 +49,7 @@
 
 <details open>
 <summary><h2>
-  <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=googleanalytics&logoColor=00D9FF" width="25"> 
+  <img src="https://img.shields.io/badge/-%230d1117?style=flat-square&logo=googleanalytics&logoColor=00D9FF" width="25"> 
   Estatísticas do GitHub
 </h2></summary>
 <div align="center">
@@ -60,8 +60,8 @@
 
 <div align="center">
   <h2>
-    <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=gitlfs&logoColor=00D9FF" width="25"> 
-    Contribuições & Atividade
+    <img src="https://img.shields.io/badge/-%230d1117?style=flat-square&logo=github&logoColor=00D9FF" width="25"> 
+    Contribuições (Snake Game)
   </h2>
 
   <picture>
@@ -71,13 +71,13 @@
   </picture>
 
   <p>
-    🚀 <b>Gostou do meu trabalho?</b> Contribuições, ideias e feedbacks são sempre bem-vindos!
+    🚀 <b>Gostou do meu trabalho?</b> Contribuições e ideias são sempre bem-vindos!
   </p>
 </div>
 
 <details open>
 <summary><h2>
-  <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=rss&logoColor=00D9FF" width="25"> 
+  <img src="https://img.shields.io/badge/-%230d1117?style=flat-square&logo=rss&logoColor=00D9FF" width="25"> 
   Vamos nos Conectar!
 </h2></summary>
 <div align="center">
