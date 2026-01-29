@@ -55,22 +55,23 @@
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arlei2019&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arlei2019&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arlei2019&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
 </div>
 </details>
 
 <div align="center">
   <h2>
-    <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=git-lfs&logoColor=00D9FF" width="25"> 
-    Contribuições & Atividade
+    <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=github&logoColor=00D9FF" width="25"> 
+    Contribuições (Snake Game)
   </h2>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arlei2019&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arlei2019/arlei2019/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arlei2019/arlei2019/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arlei2019/arlei2019/output/github-contribution-grid-snake.svg">
+  </picture>
 
   <p>
-    🚀 <b>Gostou do meu trabalho?</b> Contribuições, ideias e feedbacks são sempre bem-vindos!<br>
-    📧 Entre em contato para parcerias ou apenas para trocar uma ideia sobre tech.
+    🚀 <b>Gostou do meu trabalho?</b> Contribuições, ideias e feedbacks são sempre bem-vindos!
   </p>
 </div>
 
@@ -82,9 +83,6 @@
 <div align="center">
 <a href="https://www.linkedin.com/in/%C3%A1rlei-santos-739040387/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-</a>
-<a href="mailto:SEU_EMAIL_AQUI@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
 </a>
 <a href="https://github.com/arlei2019" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub"/>
