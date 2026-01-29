@@ -12,11 +12,14 @@ Atualmente estou focando meus estudos em desenvolvimento web, aprendendo a criar
 
 ### 🛠 Tecnologias e Ferramentas
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Front-end** | HTML5, CSS3, JavaScript, Bootstrap |
-| **Back-end** | PHP, MySQL, Node.js |
-| **Ferramentas** | VS Code, Git, GitHub, Figma |
+#### 🎨 Front-end
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
+
+#### ⚙️ Back-end
+[![My Skills](https://skillicons.dev/icons?i=php,mysql,nodejs)](https://skillicons.dev)
+
+#### 🧰 Ferramentas e Design
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,figma)](https://skillicons.dev)
 
 ---
 
