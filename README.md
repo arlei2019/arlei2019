@@ -38,7 +38,7 @@ Atualmente estou focando meus estudos em desenvolvimento web, aprendendo a criar
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Ol%C3%A1!+Seja+bem-vindo(a).;Aqui+eu+transformo+ideias+em+c%C3%B3digo.;Feel+free+to+look+around!+%F0%9F%91%80" alt="Typing SVG" /></a>
+  <a href="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Ol%C3%A1!+Seja+bem-vindo(a).;Aqui+eu+transformo+ideias+em+c%C3%B3digo.;Feel+free+to+look+around!+%F0%9F%91%80" alt="Typing SVG" /></a>
   <br/>
   <img src=": https://octodex.github.com/" width="180">
 </div>
