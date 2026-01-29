@@ -26,8 +26,6 @@
   Sobre Mim 
 </h2></summary>
 <div align="left">
-yaml
-Copy
 👨‍💻 Nome: Árlei Santos
 🎓 Formação: Técnico em Informática para Internet (Cursando)
 💡 Áreas de Interesse: Front-end, Back-end, UX/UI Design
@@ -88,7 +86,6 @@ Copy
   Atividade Recente
 </h2></summary>
 <div align="center">
-https://github.com/ashutosh00710/github-readme-activity-graph
 </div>
 </details>
 
