@@ -23,8 +23,7 @@ jobs:
       - name: Generate GitHub Contributions Snake
         uses: Platane/snk@v3
         with:
-          # AQUI FOI ALTERADO: Definido explicitamente para 'arlei'
-          github_user_name: arlei
+          github_user_name: arlei2019
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
