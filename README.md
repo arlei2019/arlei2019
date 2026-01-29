@@ -49,13 +49,27 @@
 <div align="center">
   <h2>
     <img src="https://user-images.githubusercontent.com/74038190/216120952-63d32aa5-1cd6-4c1f-8c7e-1b4e9c2e11e8.png" width="30">
-    Contribuições
+    Contribuições & Conquistas
   </h2>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=arlei2019&theme=tokyonight&no-bg=true&margin-w=4" alt="trophies" />
+
+  <br><br>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arlei2019/arlei2019/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arlei2019/arlei2019/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arlei2019/arlei2019/output/github-contribution-grid-snake.svg">
   </picture>
+
+  <br><br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arlei2019&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+  <p align="center">
+    🚀 <b>Gostou dos meus projetos?</b> Sinta-se à vontade para contribuir, abrir Issues ou sugerir melhorias!<br>
+    🤝 Estou sempre em busca de aprender com a comunidade e colaborar em projetos Open Source.
+  </p>
 </div>
 
 <details open>
