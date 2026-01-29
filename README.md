@@ -37,12 +37,8 @@ Atualmente estou focando meus estudos em desenvolvimento web, aprendendo a criar
   <a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<h1 align="center">🚀 Bem-vindo ao meu universo criativo!</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3/l0HlNWBA9Y7V4N9XG/giphy.gif" width="150">
-</p>
-
-<p align="center">
-  <em>"Explorando o mundo do desenvolvimento web, um pixel de cada vez."</em>
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Ol%C3%A1!+Seja+bem-vindo(a).;Aqui+eu+transformo+ideias+em+c%C3%B3digo.;Feel+free+to+look+around!+%F0%9F%91%80" alt="Typing SVG" /></a>
+  <br/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3/l0HlNWBA9Y7V4N9XG/giphy.gif" width="180">
+</div>
