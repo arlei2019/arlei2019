@@ -136,3 +136,5 @@
   <img src="https://img.shields.io/badge/%C2%A9%202025-%C3%81rlei%20Santos-00D9FF?style=flat-square" alt="Copyright" />
   <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-ff6b6b?style=flat-square" alt="Made with love" />
 </div>
+
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
