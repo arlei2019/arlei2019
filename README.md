@@ -14,9 +14,7 @@
   <img src="https://img.shields.io/badge/Status-Aprendendo%20sempre-00D9FF?style=for-the-badge" alt="Status" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400" alt="Coding GIF" />
-</div>
+<br>
 
 <details open>
 <summary><h2>
@@ -36,6 +34,22 @@
 <details open>
 <summary><h2>
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcafecb5.png" width="30">
+  Minhas Tecnologias
+</h2></summary>
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
+</details>
+
+<details open>
+<summary><h2>
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcafecb5.png" width="30">
   Estatísticas do GitHub
 </h2></summary>
 <div align="center">
@@ -49,12 +63,8 @@
 <div align="center">
   <h2>
     <img src="https://user-images.githubusercontent.com/74038190/216120952-63d32aa5-1cd6-4c1f-8c7e-1b4e9c2e11e8.png" width="30">
-    Contribuições & Conquistas
+    Contribuições & Atividade
   </h2>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=arlei2019&theme=tokyonight&no-bg=true&margin-w=4" alt="trophies" />
-
-  <br><br>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arlei2019/arlei2019/output/github-contribution-grid-snake-dark.svg">
@@ -62,13 +72,13 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arlei2019/arlei2019/output/github-contribution-grid-snake.svg">
   </picture>
 
-  <br><br>
-
+  <br>
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arlei2019&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
-  <p align="center">
-    🚀 <b>Gostou dos meus projetos?</b> Sinta-se à vontade para contribuir, abrir Issues ou sugerir melhorias!<br>
-    🤝 Estou sempre em busca de aprender com a comunidade e colaborar em projetos Open Source.
+  <p>
+    🚀 <b>Gostou do meu trabalho?</b> Contribuições, ideias e feedbacks são sempre bem-vindos!<br>
+    📧 Entre em contato para parcerias ou apenas para trocar uma ideia sobre tech.
   </p>
 </div>
 
