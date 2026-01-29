@@ -18,7 +18,7 @@
 
 <details open>
 <summary><h2>
-  <img src="https://img.shields.io/badge/-00D9FF?style=flat-square&logo=superuser&logoColor=00D9FF" width="25"> 
+  <img src="https://img.shields.io/badge/-00D9FF?style=flat-square&logo=superuser&logoColor=white" width="25"> 
   Sobre Mim
 </h2></summary>
 <div align="left">
@@ -33,7 +33,7 @@
 
 <details open>
 <summary><h2>
-  <img src="https://img.shields.io/badge/-00D9FF?style=flat-square&logo=visual-studio-code&logoColor=00D9FF" width="25"> 
+  <img src="https://img.shields.io/badge/-00D9FF?style=flat-square&logo=visual-studio-code&logoColor=white" width="25"> 
   Minhas Tecnologias
 </h2></summary>
 <div align="center">
@@ -49,7 +49,7 @@
 
 <details open>
 <summary><h2>
-  <img src="https://img.shields.io/badge/-00D9FF?style=flat-square&logo=google-analytics&logoColor=00D9FF" width="25"> 
+  <img src="https://img.shields.io/badge/-00D9FF?style=flat-square&logo=google-analytics&logoColor=white" width="25"> 
   Estatísticas do GitHub
 </h2></summary>
 <div align="center">
@@ -62,7 +62,7 @@
 
 <div align="center">
   <h2>
-    <img src="https://img.shields.io/badge/-00D9FF?style=flat-square&logo=git-lfs&logoColor=00D9FF" width="25"> 
+    <img src="https://img.shields.io/badge/-00D9FF?style=flat-square&logo=git-lfs&logoColor=white" width="25"> 
     Contribuições & Atividade
   </h2>
 
@@ -84,7 +84,7 @@
 
 <details open>
 <summary><h2>
-  <img src="https://img.shields.io/badge/-00D9FF?style=flat-square&logo=antenna&logoColor=00D9FF" width="25"> 
+  <img src="https://img.shields.io/badge/-00D9FF?style=flat-square&logo=rss&logoColor=white" width="25"> 
   Vamos nos Conectar!
 </h2></summary>
 <div align="center">
