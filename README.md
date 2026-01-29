@@ -19,38 +19,17 @@
 </div>
 
 <details open>
-<summary><h2>  
-  <img src="https://user-images.githubusercontent.com/74038190/216120974-4f01d08e-5cf3-4368-9168-9aaf3b5c1e2b.png" width="30">  
-  Sobre Mim  
+<summary><h2>
+  <img src="https://user-images.githubusercontent.com/74038190/216120974-4f01d08e-5cf3-4368-9168-9aaf3b5c1e2b.png" width="30">
+  Sobre Mim
 </h2></summary>
 <div align="left">
-👨‍💻 Nome: Árlei Santos
-🎓 Formação: Técnico em Informática para Internet (Cursando)
-💡 Áreas de Interesse: Front-end, Back-end, UX/UI Design
-🌱 Aprendendo Atualmente: React, Node.js, Metodologias Ágeis
-🎯 Objetivo: Criar aplicações completas e responsivas
+👨‍💻 Nome: Árlei Santos<br>
+🎓 Formação: Técnico em Informática para Internet (Cursando)<br>
+💡 Áreas de Interesse: Front-end, Back-end, UX/UI Design<br>
+🌱 Aprendendo Atualmente: React, Node.js, Metodologias Ágeis<br>
+🎯 Objetivo: Criar aplicações completas e responsivas<br>
 ⚡ Curiosidade: Adoro transformar ideias em código funcional!
-</div>
-</details>
-
-<details open>
-<summary><h2>
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-c8e5-4c18-9ae6-48f46bf8494b.png" width="30">
-  Tecnologias & Ferramentas
-</h2></summary>
-<div align="center">
-🎨 Front-end
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react&theme=dark&perline=5" />
-</p>
-⚙️ Back-end
-<p>
-  <img src="https://skillicons.dev/icons?i=php,nodejs,mysql&theme=dark&perline=5" />
-</p>
-🧰 Ferramentas & Design
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma&theme=dark&perline=5" />
-</p>
 </div>
 </details>
 
@@ -64,8 +43,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arlei2019&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arlei2019&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
-<br>
-<img src="https://github-profile-trophy.vercel.app/?username=arlei2019&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 </details>
 
@@ -101,12 +78,4 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Obrigado+pela+visita!+%F0%9F%98%8A;Volte+sempre!+%E2%9C%A8;Happy+Coding!+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a3b-8b3d-43c65d4a907a.gif" width="100">
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/%C2%A9%202025-%C3%81rlei%20Santos-00D9FF?style=flat-square" alt="Copyright" />
-  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-ff6b6b?style=flat-square" alt="Made with love" />
 </div>
