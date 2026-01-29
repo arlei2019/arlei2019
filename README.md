@@ -18,7 +18,7 @@
 
 <details open>
 <summary><h2>
-  <img src="https://user-images.githubusercontent.com/74038190/216120974-4f01d08e-5cf3-4368-9168-9aaf3b5c1e2b.png" width="30">
+ <img src="https://img.shields.io/badge/-00D9FF?style=flat-square&logo=github&logoColor=00D9FF" width="25">
   Sobre Mim
 </h2></summary>
 <div align="left">
@@ -33,7 +33,7 @@
 
 <details open>
 <summary><h2>
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcafecb5.png" width="30">
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/code.svg" width="25" style="filter: invert(74%) sepia(95%) saturate(3653%) hue-rotate(162deg) brightness(102%) contrast(106%);"> 
   Minhas Tecnologias
 </h2></summary>
 <div align="center">
@@ -49,7 +49,7 @@
 
 <details open>
 <summary><h2>
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcafecb5.png" width="30">
+  <img src="https://img.shields.io/badge/-00D9FF?style=flat-square&logo=visual-studio-code&logoColor=00D9FF" width="25">
   Estatísticas do GitHub
 </h2></summary>
 <div align="center">
@@ -62,7 +62,7 @@
 
 <div align="center">
   <h2>
-    <img src="https://user-images.githubusercontent.com/74038190/216120952-63d32aa5-1cd6-4c1f-8c7e-1b4e9c2e11e8.png" width="30">
+  <img src="https://img.shields.io/badge/-00D9FF?style=flat-square&logo=google-analytics&logoColor=00D9FF" width="25">
     Contribuições & Atividade
   </h2>
 
@@ -84,7 +84,7 @@
 
 <details open>
 <summary><h2>
-  <img src="https://user-images.githubusercontent.com/74038190/216121986-1a7200d6-0e40-4f2c-89b7-0df6d06a5bc8.png" width="30">
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/share-nodes.svg" width="25" style="filter: invert(74%) sepia(95%) saturate(3653%) hue-rotate(162deg) brightness(102%) contrast(106%);"> 
   Vamos nos Conectar!
 </h2></summary>
 <div align="center">
